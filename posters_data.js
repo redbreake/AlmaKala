@@ -1,0 +1,23 @@
+const animePosters = {
+    "BanG Dream! Ave Mujica": "anime_0.jpg",
+    "Dr. Stone: Science Future": null,
+    "Fate/strange Fake": null,
+    "Ishura Season 2": null,
+    "Kusuriya no Hitorigoto Season 2": null,
+    "Chi. Chikyuu no Undou ni Tsuite": null,
+    "Rurouni Kenshin Remake": null,
+    "Anne Shirley anime 2025": null,
+    "Apocalypse Hotel anime": null,
+    "Uma Musume: Cinderella Gray": null,
+    "Ranma 1/2 2024": null,
+    "Sanda anime": null,
+    "Takopi no Genzai": null,
+    "Tatsuki Fujimoto 17-26": null,
+    "To Be Hero X": null,
+    "Lord of Mysteries anime": null,
+    "Boku no Hero Academia Final Season": null,
+    "Leviathan Netflix anime": null,
+    "Kowloon Generic Romance": null,
+    "Kingdom Season 6": null,
+    "Yofukashi no Uta Season 2": null
+};

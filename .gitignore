@@ -1,0 +1,6 @@
+# Python scripts
+*.py
+# Data files
+video.txt
+# Browser folders
+.gemini/
